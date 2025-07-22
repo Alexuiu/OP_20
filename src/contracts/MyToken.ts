@@ -103,5 +103,3 @@ export class MyToken extends DeployableOP_20 {
         writer.writeBoolean(true);
 
         return writer;
-    }
-}
